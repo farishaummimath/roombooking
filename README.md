@@ -1,4 +1,4 @@
-## Room Booking Component
+## Room Booking Module
 This is a basic room booking component that allows to add rooms, number of adults and children based on various constraints.
 
 ![picture](public/PageScreenshot.png)
