@@ -1,7 +1,7 @@
 ## Room Booking Component
 This is a basic room booking component that allows to add rooms, number of adults and children based on various constraints.
 
-![picture](img/abc.png)
+![picture](public/PageScreenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
